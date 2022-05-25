@@ -1,7 +1,7 @@
 # CsaHoSz_Backend
 
 ## Info
-This was a fullstack university project, in which creating the API+Authentication+Authorization using Spring was my task.
+This was a fullstack university project, in which creating the API+Authentication+Authorization using Spring was my task. It's a management platform for a sports organization.
 
 ## Database
 - A mysql server instace is needed for the data persistence
