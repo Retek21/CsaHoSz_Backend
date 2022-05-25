@@ -1,5 +1,7 @@
 # CsaHoSz_Backend
-University Project Backend
+
+## Info
+This was a fullstack university project, in which creating the API+Authentication+Authorization using Spring was my task.
 
 ## Database
 - A mysql server instace is needed for the data persistence
@@ -8,5 +10,5 @@ University Project Backend
 - It can be connencted through port 3306
 - **These can be changed in the resources/application.properties file**
 
-## Info
-This was a fullstack university project, in which creating the API+Authentication+Authorization using Spring was my task.
+## Auth
+Authentication is done through Jason Web Tokens.
